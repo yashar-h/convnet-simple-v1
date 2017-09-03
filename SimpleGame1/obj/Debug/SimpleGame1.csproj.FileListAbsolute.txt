@@ -1,0 +1,15 @@
+C:\Personal\SimpleGame1\SimpleGame1\bin\Debug\SimpleGame1.exe.config
+C:\Personal\SimpleGame1\SimpleGame1\bin\Debug\SimpleGame1.exe
+C:\Personal\SimpleGame1\SimpleGame1\bin\Debug\SimpleGame1.pdb
+C:\Personal\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.csprojResolveAssemblyReference.cache
+C:\Personal\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.Form1.resources
+C:\Personal\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.Properties.Resources.resources
+C:\Personal\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.csproj.GenerateResource.Cache
+C:\Personal\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.exe
+C:\Personal\SimpleGame1\SimpleGame1\obj\Debug\SimpleGame1.pdb
+C:\Personal\SimpleGame1\SimpleGame1\bin\Debug\SimpleGame1Trainer.dll
+C:\Personal\SimpleGame1\SimpleGame1\bin\Debug\ConvNetSharp.Core.dll
+C:\Personal\SimpleGame1\SimpleGame1\bin\Debug\ConvNetSharp.Volume.dll
+C:\Personal\SimpleGame1\SimpleGame1\bin\Debug\Newtonsoft.Json.dll
+C:\Personal\SimpleGame1\SimpleGame1\bin\Debug\SimpleGame1Trainer.pdb
+C:\Personal\SimpleGame1\SimpleGame1\bin\Debug\Newtonsoft.Json.xml
